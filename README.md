@@ -27,5 +27,9 @@ The goal is to identify early churn, measure long-term engagement stability, and
 - After the initial decline, retention stabilizes — long-term engaged users show consistent activity over 6+ months
 - Older cohorts retain approximately 20-30% of users after 6 months
 
+<img width="500" height="300" alt="Screenshot 2026-03-06 at 16 53 35" src="https://github.com/user-attachments/assets/a69bd545-b915-4784-879d-fb61d9c60176" />
+<img width="500" height="310" alt="Screenshot 2026-03-06 at 16 53 50" src="https://github.com/user-attachments/assets/663c4079-974f-4836-9e99-dd49b7edb19c" />
+
+
 ## Tools
 Python · pandas · seaborn · matplotlib · Jupyter Notebook
