@@ -12,7 +12,8 @@ The goal is to identify early churn, measure long-term engagement stability, and
 ## Dataset
 - ~9,800 unique users, 171,000+ activity records
 - Period: January 2023 – October 2024
-- Source: educational dataset 
+- Source: educational dataset
+  [Dataset](https://github.com/alalieva/Cohort-Retention-Analysis/blob/main/users_data.csv)
 
 ## Methodology
 1. **Data quality checks** — missing values, duplicates, user-day level deduplication
